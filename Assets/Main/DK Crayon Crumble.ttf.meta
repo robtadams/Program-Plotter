@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3e6c55758ffd94e46bb19b4c0194e484
+guid: b89ad7fc54df54e4f877b3c4ff8e36b1
 timeCreated: 1523311021
 licenseType: Free
 TrueTypeFontImporter:
@@ -13,7 +13,8 @@ TrueTypeFontImporter:
   fontName: DK Crayon Crumble
   fontNames:
   - DK Crayon Crumble
-  fallbackFontReferences: []
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3e6c55758ffd94e46bb19b4c0194e484, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

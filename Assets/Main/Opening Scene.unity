@@ -846,9 +846,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 240619d59bf614fde9a00e42f29699be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cursorTexture: {fileID: 0}
-  cursorMode: 0
-  hotSpot: {x: 0, y: 0}
 --- !u!114 &1485634691
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1154,6 +1151,7 @@ GameObject:
   - component: {fileID: 2034178308}
   - component: {fileID: 2034178307}
   - component: {fileID: 2034178306}
+  - component: {fileID: 2034178309}
   m_Layer: 0
   m_Name: EventSystem
   m_TagString: Untagged
@@ -1206,3 +1204,14 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2034178309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2034178305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 700470cf335bdd847b8540be022a61db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
