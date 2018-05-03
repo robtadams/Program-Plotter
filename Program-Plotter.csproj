@@ -285,6 +285,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Assets\Demo Level\ButtonPressSceneChange.cs" />
     <Compile Include="Assets\Demo Level\ChangeScene.cs" />
     <Compile Include="Assets\Linker Test\BoolButton.cs" />
@@ -294,12 +295,20 @@
     <Compile Include="Assets\Main\JoyConRKey.cs" />
     <Compile Include="Assets\Program\PrintHello.cs" />
     <Compile Include="Assets\Program\SwapObjects.cs" />
+=======
+    <Compile Include="Assets\ChangeScene.cs" />
+    <Compile Include="Assets\cursor.cs" />
+    <Compile Include="Assets\JoyConRKey.cs" />
+    <Compile Include="Assets\MasterCube\Script\MasterCube.cs" />
+>>>>>>> map-testing
     <Compile Include="Assets\Unity Store Assets\MasterCube\Script\MasterCube.cs" />
     <Compile Include="Assets\Unity Store Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogic.cs" />
     <Compile Include="Assets\Unity Store Assets\Supercyan Character Pack Free Sample\Scripts\Demo.cs" />
     <Compile Include="Assets\Unity Store Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControl.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\MasterCube\README.txt" />
+    <None Include="Assets\MasterCube\license.txt" />
     <None Include="Assets\Unity Store Assets\MasterCube\README.txt" />
     <None Include="Assets\Unity Store Assets\MasterCube\license.txt" />
   </ItemGroup>
