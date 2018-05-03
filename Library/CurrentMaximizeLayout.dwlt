@@ -30,7 +30,11 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 758
+>>>>>>> map-testing
+=======
+  controlID: 8307
 >>>>>>> map-testing
 --- !u!114 &2
 MonoBehaviour:
@@ -54,16 +58,23 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 335
     y: 92
     width: 1024
     height: 551
+=======
+    x: 366
+    y: 91
+    width: 1134
+    height: 564
+>>>>>>> map-testing
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
   m_Stats: 0
   m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
-  m_TargetDisplay: 3
+  m_TargetDisplay: 0
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
@@ -87,25 +98,43 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
+<<<<<<< HEAD
       width: 1024
       height: 534
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 512, y: 267}
+=======
+      width: 1134
+      height: 547
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 567, y: 273.5}
+>>>>>>> map-testing
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
       x: -512
       y: -267
       width: 1024
       height: 534
+=======
+      x: -567
+      y: -273.5
+      width: 1134
+      height: 547
+>>>>>>> map-testing
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 1024, y: 551}
+=======
+  m_LastWindowPixelSize: {x: 1134, y: 564}
+>>>>>>> map-testing
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -127,6 +156,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1361
 <<<<<<< HEAD
     height: 947
@@ -135,11 +165,18 @@ MonoBehaviour:
   vertical: 1
   controlID: 96
 =======
+=======
+    width: 1502
+>>>>>>> map-testing
     height: 958
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 759
+>>>>>>> map-testing
+=======
+  controlID: 8308
 >>>>>>> map-testing
 --- !u!114 &4
 MonoBehaviour:
@@ -159,6 +196,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1361
 <<<<<<< HEAD
     height: 572
@@ -167,11 +205,18 @@ MonoBehaviour:
   vertical: 0
   controlID: 97
 =======
+=======
+    width: 1502
+>>>>>>> map-testing
     height: 585
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 719
+>>>>>>> map-testing
+=======
+  controlID: 8309
 >>>>>>> map-testing
 --- !u!114 &5
 MonoBehaviour:
@@ -189,10 +234,14 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 333
 <<<<<<< HEAD
     height: 572
 =======
+=======
+    width: 364
+>>>>>>> map-testing
     height: 585
 >>>>>>> map-testing
   m_MinSize: {x: 202, y: 221}
@@ -225,6 +274,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 92
     width: 331
     height: 551
@@ -239,6 +289,17 @@ MonoBehaviour:
     m_SelectedIDs: 40edffff
     m_LastClickedID: -4800
     m_ExpandedIDs: 40edffff9efbffff00000000
+>>>>>>> map-testing
+=======
+    y: 91
+    width: 362
+    height: 564
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 1243fbff
+    m_LastClickedID: -310510
+    m_ExpandedIDs: 02f5ffff000000005e2c0000
 >>>>>>> map-testing
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -276,12 +337,19 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 333
+    x: 364
     y: 0
+<<<<<<< HEAD
     width: 1028
     height: 572
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
+=======
+    width: 1138
+    height: 585
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> map-testing
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 8}
@@ -312,25 +380,32 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 335
     y: 92
     width: 1024
     height: 557
+=======
+    x: 366
+    y: 91
+    width: 1134
+    height: 564
+>>>>>>> map-testing
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 441.25913332535686
-  m_2DMode: 0
+  lastFramingTime: 49.49980383372891
+  m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.1639099, y: -26.56929, z: 6.1699896}
+    m_Target: {x: -18.463009, y: -44.60264, z: 10.780994}
     speed: 2
-    m_Value: {x: -1.1639099, y: -26.56929, z: 6.1699896}
+    m_Value: {x: -18.463009, y: -44.60264, z: 10.780994}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
     showFog: 1
-    showMaterialUpdate: 0
+    showMaterialUpdate: 1
     showSkybox: 1
     showFlares: 1
     showImageEffects: 1
@@ -349,17 +424,17 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.3272692, y: 0.65497965, z: -0.56618327, w: -0.3785937}
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: -0.32726917, y: 0.6549796, z: -0.5661832, w: -0.37859365}
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 63.14417
+    m_Target: 89.10499
     speed: 2
-    m_Value: 63.14417
+    m_Value: 89.10499
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_ShowGlobalGrid: 1
   m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
@@ -486,6 +561,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 572
     width: 1361
 <<<<<<< HEAD
@@ -495,6 +571,13 @@ MonoBehaviour:
 >>>>>>> map-testing
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
+=======
+    y: 585
+    width: 1502
+    height: 373
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+>>>>>>> map-testing
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -524,9 +607,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 664
     width: 1359
     height: 354
+=======
+    y: 676
+    width: 1500
+    height: 352
+>>>>>>> map-testing
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -540,16 +629,25 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< HEAD
     - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets
+=======
+    - Assets/Demo Level
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Demo Level
+>>>>>>> map-testing
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Unity\Program-Plotter
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: b22f0000
     m_LastClickedID: 12210
@@ -558,6 +656,11 @@ MonoBehaviour:
     m_SelectedIDs: ba280000
     m_LastClickedID: 10426
     m_ExpandedIDs: 000000006c270000782700007a270000d6280000182900006229000000ca9a3bffffff7f
+>>>>>>> map-testing
+=======
+    m_SelectedIDs: 182c0000
+    m_LastClickedID: 11288
+    m_ExpandedIDs: 000000002e2a00003a2a00003c2a0000ac2b000000ca9a3bffffff7f
 >>>>>>> map-testing
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -587,9 +690,13 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000b22f0000c02f0000c22f00009c300000f030000038310000
 =======
     m_ExpandedIDs: 000000006c270000782700007a270000d6280000182900006229000000ca9a3bffffff7f
+>>>>>>> map-testing
+=======
+    m_ExpandedIDs: 000000002e2a00003a2a00003c2a0000ac2b000000ca9a3bffffff7f
 >>>>>>> map-testing
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -616,6 +723,7 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
 =======
@@ -624,6 +732,12 @@ MonoBehaviour:
 >>>>>>> map-testing
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000562e0000702a0000
+=======
+    m_SelectedInstanceIDs: 1243fbff
+    m_LastClickedInstanceID: -310510
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c6230000562e0000702a000000000000
+>>>>>>> map-testing
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -673,9 +787,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 664
     width: 1359
     height: 354
+=======
+    y: 676
+    width: 1500
+    height: 352
+>>>>>>> map-testing
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &14
 MonoBehaviour:
@@ -691,8 +811,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1361
+    x: 1502
     y: 0
+<<<<<<< HEAD
     width: 559
 <<<<<<< HEAD
     height: 947
@@ -701,6 +822,12 @@ MonoBehaviour:
 >>>>>>> map-testing
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
+=======
+    width: 418
+    height: 958
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> map-testing
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -728,10 +855,17 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1363
     y: 92
     width: 557
     height: 926
+=======
+    x: 1504
+    y: 91
+    width: 416
+    height: 937
+>>>>>>> map-testing
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0

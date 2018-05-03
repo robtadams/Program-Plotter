@@ -299,7 +299,10 @@
     <Compile Include="Assets\ChangeScene.cs" />
     <Compile Include="Assets\cursor.cs" />
     <Compile Include="Assets\JoyConRKey.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\MasterCube\Script\MasterCube.cs" />
+>>>>>>> map-testing
+=======
 >>>>>>> map-testing
     <Compile Include="Assets\Unity Store Assets\MasterCube\Script\MasterCube.cs" />
     <Compile Include="Assets\Unity Store Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogic.cs" />
@@ -307,8 +310,6 @@
     <Compile Include="Assets\Unity Store Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControl.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\MasterCube\README.txt" />
-    <None Include="Assets\MasterCube\license.txt" />
     <None Include="Assets\Unity Store Assets\MasterCube\README.txt" />
     <None Include="Assets\Unity Store Assets\MasterCube\license.txt" />
   </ItemGroup>
